@@ -1,0 +1,24 @@
+.form-group {
+  padding : 4px;
+}
+
+.form-label{
+  padding : 2px;
+}
+
+.navbar-brand img {
+  height: 40px;
+}
+
+.img-fluid {
+  max-width: 100%;
+  height: auto;
+}
+
+.rounded-circle-container {
+  width: 200px; /* Sesuaikan lebar dan tinggi sesuai kebutuhan Anda */
+  height: 200px; /* Sesuaikan lebar dan tinggi sesuai kebutuhan Anda */
+  overflow: hidden; /* Ini yang akan memotong gambar yang lebih besar */
+  border-radius: 50%;
+  border: 2px solid black;
+}

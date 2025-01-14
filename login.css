@@ -1,0 +1,15 @@
+.form-group {
+  padding : 4px;
+}
+
+.form-label{
+  padding : 2px;
+}
+
+.navbar-brand img {
+  height: 40px;
+}
+.img-fluid {
+  max-width: 100%;
+  height: auto;
+}
